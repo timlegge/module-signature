@@ -737,7 +737,7 @@ In programs:
 =head1 DEPRECATION NOTICE
 
 B<Module::Signature> has been deprecated because it does not provide
-the user with the security assurance that it's usage would imply.
+the user with the security assurance that its usage would imply.
 
 Module authors, who have used B<Module::Signature>, have not always
 replaced their keys before they expire. Depending on a user's

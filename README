@@ -31,7 +31,7 @@ SYNOPSIS
 DEPRECATION NOTICE
 
     Module::Signature has been deprecated because it does not provide the
-    user with the security assurance that it's usage would imply.
+    user with the security assurance that its usage would imply.
 
     Module authors, who have used Module::Signature, have not always
     replaced their keys before they expire. Depending on a user's
